@@ -6,3 +6,6 @@ dependances:
 
 
 -ntfy on android with play store
+
+
+on the main file, you need to add the ip to the sentence: [IP], the port to the sentence: [PORT], the username to the sentence: [USER]
