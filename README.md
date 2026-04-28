@@ -9,3 +9,24 @@ dependances:
 
 
 on the main file, you need to add the ip to the sentence: [IP], the port to the sentence: [PORT], the username to the sentence: [USER]
+
+
+you can compile it with gcc: 
+
+
+''bash
+gcc ntfy_storage.c -o ntfy_storage
+''
+
+and execute it with
+
+
+''bash
+./ntfy_storage
+''
+
+
+There is a bug ! 🐛
+
+
+the programme don't work on arm !
