@@ -5,7 +5,4 @@ you get a notification on your phone when you start your, you will see hes stora
 dependances:
 
 
--ntfy
-
-
-On android
+-ntfy on android with play store
