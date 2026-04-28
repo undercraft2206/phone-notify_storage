@@ -14,14 +14,14 @@ on the main file, you need to add the ip to the sentence: [IP], the port to the 
 you can compile it with gcc: 
 
 
-''bash
+bash ''
 gcc ntfy_storage.c -o ntfy_storage
 ''
 
 and execute it with
 
 
-''bash
+bash ''
 ./ntfy_storage
 ''
 
